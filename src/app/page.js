@@ -24,7 +24,7 @@ export default function Home() {
                         HISOB VARAQA
                     </span>
                     <div className={kuashan.className}>
-                        <span className='text-xl sm:text-2xl border-b-[1px] border-[#daa520]'>CI-958304</span>
+                        <span className='text-xl sm:text-2xl border-b-[1px] border-[#daa520]'>CI-958324</span>
                     </div>
                     <span className='pt-[2px] text-[8px]'>Hujjat raqami</span>
                     <span className='mt-[20px] text-sm sm:text-base md:text-lg border-b-[1px] border-[#daa520] text-center'>
@@ -33,7 +33,7 @@ export default function Home() {
                     <span className='pt-[2px] text-[8px]'>Mashina egasi</span>
                     <div className='flex justify-between w-full max-w-[600px] mt-[20px]'>
                         <div className='flex flex-col items-center justify-center'>
-                            <span className='text-sm sm:text-base md:text-lg border-b-[1px] border-[#daa520]'>CHEVROLET TAHOE</span>
+                            <span className='text-sm sm:text-base md:text-lg border-b-[1px] border-[#daa520]'>ZEEKR X9 ULTRA</span>
                             <span className='pt-[2px] text-[8px]'>Model nomi</span>
                         </div>
                         <div className='flex flex-col items-center justify-center'>
