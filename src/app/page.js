@@ -46,7 +46,7 @@ export default function Home() {
                     </div>
                     <div className='flex justify-between items-start w-full max-w-[700px] mt-[20px]'>
                         <div className='flex flex-col items-center justify-center'>
-                            <span className='text-sm sm:text-base md:text-lg border-b-[1px] border-[#daa520]'>09.02.2026</span>
+                            <span className='text-sm sm:text-base md:text-lg border-b-[1px] border-[#daa520]'>16.02.2026</span>
                             <span className='pt-[2px] text-[8px]'>Sana</span>
                         </div>
                         <div className='flex flex-col items-center justify-center'>
